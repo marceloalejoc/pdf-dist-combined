@@ -1,9 +1,8 @@
 {
-  "name": "pdfjs-dist",
+  "name": "pdfjs-dist-combined",
   "version": "1.8.199",
   "main": [
-    "build/pdf.js",
-    "build/pdf.worker.js"
+    "build/pdf.combined.js"
   ],
   "ignore": [],
   "keywords": [
